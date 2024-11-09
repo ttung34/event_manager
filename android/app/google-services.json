@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "103536848583",
+    "project_id": "even-manager-d315f",
+    "storage_bucket": "even-manager-d315f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103536848583:android:f0390c8f3b9e65ca6658e2",
+        "android_client_info": {
+          "package_name": "com.example.event_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeYgJr_1VVsjD2pw_vwr9OfNMoo48sJGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103536848583:android:5b70f826e28fb8dd6658e2",
+        "android_client_info": {
+          "package_name": "com.example.event_manager2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeYgJr_1VVsjD2pw_vwr9OfNMoo48sJGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

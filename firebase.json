@@ -1,0 +1,57 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "even-manager-d315f",
+          "appId": "1:103536848583:android:5b70f826e28fb8dd6658e2",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "even-manager-d315f",
+          "appId": "1:103536848583:ios:dd5f1d74655ff6536658e2",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "macos": {
+        "default": {
+          "projectId": "even-manager-d315f",
+          "appId": "1:103536848583:ios:dd5f1d74655ff6536658e2",
+          "uploadDebugSymbols": false,
+          "fileOutput": "macos/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "even-manager-d315f",
+          "configurations": {
+            "android": "1:103536848583:android:5b70f826e28fb8dd6658e2",
+            "ios": "1:103536848583:ios:dd5f1d74655ff6536658e2",
+            "macos": "1:103536848583:ios:dd5f1d74655ff6536658e2",
+            "web": "1:103536848583:web:bb1516ccd1367c766658e2",
+            "windows": "1:103536848583:web:54daed9d0be4df596658e2"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "emulators": {
+    "firestore": {
+      "port": 8080
+    },
+    "ui": {
+      "enabled": true
+    },
+    "singleProjectMode": true
+  },
+  "storage": {
+    "rules": "storage.rules"
+  }
+}
