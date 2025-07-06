@@ -13,6 +13,7 @@ dependencies:
   firebase_ui_auth: ^1.16.0
   flutter:
     sdk: flutter
+  flutter_gen: ^5.10.0
   flutter_localizations:
     sdk: flutter
   flutter_markdown: ^0.7.4+1

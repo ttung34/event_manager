@@ -2,9 +2,9 @@ import 'dart:ui';
 
 import 'package:event_manager2/evnt_manger/event_service/event_service.dart';
 import 'package:event_manager2/evnt_manger/model/event_model.dart';
+import 'package:event_manager2/l10n/app_localizations.dart';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 class EventDetail extends StatefulWidget {
   const EventDetail({required this.event, super.key});

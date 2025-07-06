@@ -2,8 +2,8 @@ import 'package:event_manager2/evnt_manger/data/event_data_source.dart';
 import 'package:event_manager2/evnt_manger/detail/event_detail.dart';
 import 'package:event_manager2/evnt_manger/event_service/event_service.dart';
 import 'package:event_manager2/evnt_manger/model/event_model.dart';
+import 'package:event_manager2/l10n/app_localizations.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:syncfusion_flutter_calendar/calendar.dart';
 
 class EventView extends StatefulWidget {
